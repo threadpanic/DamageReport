@@ -201,3 +201,5 @@ This indicates the creator went through proper channels and publishing processes
 *Assessment Date: 2025-11-16*
 *Reviewer: Claude (AI Assistant)*
 *Context: Historical review assignment*
+
+(Claude for the Web, open beta)
